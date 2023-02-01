@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" creator="Export gpx standard de refuges.info" version="1.1">
+<metadata>
+	<name>Points de refuges.info</name>
+	<desc>The data included in this document is from www.refuges.info. The data is made available under CC By-Sa 2.0</desc>
+	<author>
+		<name>Contributeurs refuges.info</name>
+	</author>
+	<copyright author="Contributeurs refuges.info">
+		<time>2023-01-06T10:50:06</time>
+		<license>http://creativecommons.org/licenses/by-sa/2.0/deed.fr</license>
+	</copyright>
+	<link href="https://www.refuges.info" />
+</metadata>
+
+<wpt lat="45.35352" lon="4.5161">
+  <ele>1175</ele>
+  <name>Maison des gardes </name>
+    <type>cabane non gardée</type>
+    <desc>Vieille bâtisse en pierre dont le toit est en excellent état. 
+La grande porte double ne ferme pas et est délabrée. De la neige entrait par les fenêtres, la cheminée et la  porte. Deux fenêtres sont sans carreau.
+Les poutres sciées à raz la pierre montre qu'il y a du avoir un étage... Dommage.
+
+Un banc de bois et un ressaut du mur peut servir de banc de pierre.
+
+Peut servir d'abri correct contre les intempéries (enfin en fonction d'où vient le vent...).
+
+Il existe un point d'eau pas loin (source captée) en direction Nord, signalé par un triangle bleu sur un arbre et sur la pierre qui le surblombe, mais avec la neige, je ne saurais pas le localiser.Depuis Le Bessat, prendre la direction de Bourdouze.ONF
+Forêt de Saint Étienne.</desc>
+    <src>Coordonnées pointées sur photos aériennes</src>
+    <link href="https://www.refuges.info/point/4251/cabane-non-gardee/Maison-des-gardes/" />
+</wpt>
+</gpx>

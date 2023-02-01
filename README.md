@@ -4,3 +4,6 @@ This repository is dedicated to tools and resources in order to ease the organis
 ## Useful links
 
 
+## utils
+[savoir faire des noeuds](https://www.lesnoeuds.com/noeuds_de_camping.html)
+

@@ -2,6 +2,7 @@
 This repository is dedicated to tools and resources in order to ease the organisation of hikes and treks, alone or in group, with a focus around France and Europe.
 
 ## Useful links
+[wetter online (weather in Germany)](https://www.wetteronline.de/wettertrend/baden-baden)
 
 #### utils
 [savoir faire des noeuds](https://www.lesnoeuds.com/noeuds_de_camping.html)
@@ -15,3 +16,7 @@ This repository is dedicated to tools and resources in order to ease the organis
 #### get GR GPX 
 [Mon GR](https://www.mongr.fr/) good website to obtain data of GR traces.
 [map of GRs](https://www.google.com/maps/d/u/0/viewer?mid=1nh_jR073YQFIYoMudLxSZXoTLUo&ll=44.42316729871608%2C2.7623355061628008&z=11) very good map for getting GR data.
+
+## Germany
+[trek camps in Schwarzvald](https://www.trekking-schwarzwald.de/) book at the beginning of the season, starting May 1st.
+
